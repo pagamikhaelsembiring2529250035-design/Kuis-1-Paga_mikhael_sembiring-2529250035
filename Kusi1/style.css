@@ -4,7 +4,8 @@ body{
 
 img{
 width: 500px;
-padding: 5px;
+
+padding: 10px;
 border-radius: 50px;
 box-sizing: border-box;
 }
